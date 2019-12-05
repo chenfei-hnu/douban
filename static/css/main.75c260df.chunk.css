@@ -7915,8 +7915,7 @@ button.tag-pill.tag-default:hover {
 .List_listContainer__7Vk_n {
   font-size: 18px;
   width: 96vw;
-  margin: 0 auto;
-  padding-left: 5.5px
+  margin: 0 auto
 }
 
 .ListItem_listItem__2Kpsv {
@@ -7925,7 +7924,7 @@ button.tag-pill.tag-default:hover {
 }
 
 .ListItem_noImg__NLfhW {
-  border: 1px solid #ddd;
+  border: 1px solid hsla(0, 0%, 86.3%, .2);
   background-color: #fff;
   box-shadow: 0 2px 4px rgba(0, 0, 0, .08);
   overflow-wrap: break-word;
@@ -7989,4 +7988,4 @@ button.tag-pill.tag-default:hover {
   margin-right: 3px
 }
 
-/*# sourceMappingURL=main.85020f5e.chunk.css.map */
+/*# sourceMappingURL=main.75c260df.chunk.css.map */

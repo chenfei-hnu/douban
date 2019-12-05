@@ -7695,6 +7695,12 @@ a:hover {
   color: red
 }
 
+::-webkit-scrollbar {
+  display: none !important;
+  width: 0;
+  height: 0
+}
+
 @font-face {
   font-family: icomoon;
   src: url(https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/media/icomoon.82e201eb.eot);
@@ -7915,6 +7921,7 @@ button.tag-pill.tag-default:hover {
 .List_listContainer__7Vk_n {
   font-size: 18px;
   width: 96vw;
+  padding-left: 2vw;
   margin: 0 auto
 }
 
@@ -7988,4 +7995,4 @@ button.tag-pill.tag-default:hover {
   margin-right: 3px
 }
 
-/*# sourceMappingURL=main.75c260df.chunk.css.map */
+/*# sourceMappingURL=main.0c30b597.chunk.css.map */

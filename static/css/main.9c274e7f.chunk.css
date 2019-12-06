@@ -7703,8 +7703,8 @@ a:hover {
 
 @font-face {
   font-family: icomoon;
-  src: url(https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/media/icomoon.1d08f86d.eot);
-  src: url(https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/media/icomoon.1d08f86d.eot#iefix) format("embedded-opentype"), url(https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/media/icomoon.5aecd5aa.ttf) format("truetype"), url(https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/media/icomoon.859388e7.woff) format("woff"), url(https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/media/icomoon.eed46047.svg#icomoon) format("svg");
+  src: url(../.https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/media/icomoon.1d08f86d.eot);
+  src: url(../.https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/media/icomoon.1d08f86d.eot#iefix) format("embedded-opentype"), url(../.https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/media/icomoon.5aecd5aa.ttf) format("truetype"), url(../.https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/media/icomoon.859388e7.woff) format("woff"), url(../.https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/media/icomoon.eed46047.svg#icomoon) format("svg");
   font-weight: 400;
   font-style: normal;
   font-display: block
@@ -7903,7 +7903,7 @@ a:hover {
 
 @font-face {
   font-family: ExtraLight;
-  src: url(https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/media/SourceHanSansCN-ExtraLight.45afa4d7.otf) format("truetype")
+  src: url(../.https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/media/SourceHanSansCN-ExtraLight.45afa4d7.otf) format("truetype")
 }
 
 body {
@@ -7929,16 +7929,21 @@ button.tag-pill.tag-default:hover {
 .List_listContainer__7Vk_n {
   font-size: 18px;
   width: 96vw;
-  padding: 4vw 0 0 2vw;
+  padding: 4vw 0 0;
   margin: 0 auto
 }
 
-.List_searchContainer__1Tzoa {
+.List_htmlContainer__1nwVq {
   width: 92vw;
   height: auto;
   font-size: 12px;
   margin: 2vw auto;
-  color: #bcbcbc
+  color: #000
+}
+
+.List_searchContainer__1Tzoa {
+  padding-bottom: 4vw;
+  border-bottom: 1px solid #e1e1e1
 }
 
 .List_cur__2IY9y {
@@ -7970,9 +7975,8 @@ ul {
   overflow-x: auto;
   overflow-y: hidden;
   white-space: nowrap;
-  border-bottom: 1px solid #e1e1e1;
   font-size: 14px;
-  color: #8b8b8b;
+  color: #000;
   margin: 0;
   padding: 0;
   width: 100%
@@ -7997,6 +8001,14 @@ ul li:first-child {
 
 ul::-webkit-scrollbar {
   display: none
+}
+
+.List_switchSpan__3Kr_0 {
+  padding: 0 !important
+}
+
+.List_switchSpan__3Kr_0 i {
+  vertical-align: -.2em
 }
 
 .ListItem_listItem__2Kpsv {
@@ -8069,4 +8081,4 @@ ul::-webkit-scrollbar {
   margin-right: 3px
 }
 
-/*# sourceMappingURL=main.ad22f0a4.chunk.css.map */
+/*# sourceMappingURL=main.9c274e7f.chunk.css.map */

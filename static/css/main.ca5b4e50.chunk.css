@@ -7934,9 +7934,10 @@ button.tag-pill.tag-default:hover {
 
 .List_listContainer__7Vk_n {
   font-size: 18px;
-  width: 96vw;
+  width: 92vw;
   padding: 4vw 0 0;
-  margin: 0 auto
+  margin: 0 auto;
+  overflow-x: hidden
 }
 
 .List_htmlContainer__1nwVq {
@@ -8114,4 +8115,4 @@ ul::-webkit-scrollbar {
   margin-right: 3px
 }
 
-/*# sourceMappingURL=main.40db3b45.chunk.css.map */
+/*# sourceMappingURL=main.ca5b4e50.chunk.css.map */

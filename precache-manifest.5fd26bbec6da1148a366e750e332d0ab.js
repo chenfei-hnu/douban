@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fa471e922658acdeb28949f7aefa9ce8",
+    "revision": "b40021322ec6f9d530c9723e24562f32",
     "url": "./index.html"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/css/2.dccc17b0.chunk.css"
   },
   {
-    "revision": "b7da4b9d69d70ce73fd5",
-    "url": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/css/main.40db3b45.chunk.css"
+    "revision": "5593c5b6bd89c83b2dc8",
+    "url": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/css/main.ca5b4e50.chunk.css"
   },
   {
     "revision": "1ee25c2d53683a315d0b",
     "url": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/js/2.78f9ed40.chunk.js"
   },
   {
-    "revision": "b7da4b9d69d70ce73fd5",
+    "revision": "5593c5b6bd89c83b2dc8",
     "url": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/js/main.50bc3556.chunk.js"
   },
   {

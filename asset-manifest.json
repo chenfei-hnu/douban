@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/css/main.9c274e7f.chunk.css",
-    "main.js": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/js/main.04620762.chunk.js",
-    "main.js.map": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/js/main.04620762.chunk.js.map",
+    "main.css": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/css/main.94678f2a.chunk.css",
+    "main.js": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/js/main.157cedb0.chunk.js",
+    "main.js.map": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/js/main.157cedb0.chunk.js.map",
     "runtime~main.js": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/js/runtime~main.d653cc00.js",
     "runtime~main.js.map": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/js/runtime~main.d653cc00.js.map",
     "static/css/2.dccc17b0.chunk.css": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/css/2.dccc17b0.chunk.css",
-    "static/js/2.33520824.chunk.js": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/js/2.33520824.chunk.js",
-    "static/js/2.33520824.chunk.js.map": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/js/2.33520824.chunk.js.map",
+    "static/js/2.d7a1fba6.chunk.js": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/js/2.d7a1fba6.chunk.js",
+    "static/js/2.d7a1fba6.chunk.js.map": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/js/2.d7a1fba6.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.cf52abdd5f898078016dc5f72048650b.js": "./precache-manifest.cf52abdd5f898078016dc5f72048650b.js",
+    "precache-manifest.b19b5cb7597fe38bd290e4f6ed43b1d1.js": "./precache-manifest.b19b5cb7597fe38bd290e4f6ed43b1d1.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.dccc17b0.chunk.css.map": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/css/2.dccc17b0.chunk.css.map",
-    "static/css/main.9c274e7f.chunk.css.map": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/css/main.9c274e7f.chunk.css.map",
+    "static/css/main.94678f2a.chunk.css.map": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/css/main.94678f2a.chunk.css.map",
     "static/media/index.css": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/media/icomoon.eed46047.svg"
   }
 }

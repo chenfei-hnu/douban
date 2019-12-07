@@ -8011,8 +8011,13 @@ ul::-webkit-scrollbar {
   vertical-align: -.2em
 }
 
+.List_empty__2sTKx {
+  text-align: center;
+  width: 92vw;
+  line-height: 20vh
+}
+
 .ListItem_listItem__2Kpsv {
-  overflow: hidden;
   font-size: 12px
 }
 
@@ -8081,4 +8086,4 @@ ul::-webkit-scrollbar {
   margin-right: 3px
 }
 
-/*# sourceMappingURL=main.9c274e7f.chunk.css.map */
+/*# sourceMappingURL=main.94678f2a.chunk.css.map */

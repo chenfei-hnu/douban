@@ -7703,8 +7703,8 @@ a:hover {
 
 @font-face {
   font-family: icomoon;
-  src: url(../.https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/media/icomoon.1d08f86d.eot);
-  src: url(../.https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/media/icomoon.1d08f86d.eot#iefix) format("embedded-opentype"), url(../.https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/media/icomoon.5aecd5aa.ttf) format("truetype"), url(../.https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/media/icomoon.859388e7.woff) format("woff"), url(../.https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/media/icomoon.eed46047.svg#icomoon) format("svg");
+  src: url(https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/media/icomoon.1d08f86d.eot);
+  src: url(https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/media/icomoon.1d08f86d.eot#iefix) format("embedded-opentype"), url(https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/media/icomoon.5aecd5aa.ttf) format("truetype"), url(https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/media/icomoon.859388e7.woff) format("woff"), url(https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/media/icomoon.eed46047.svg#icomoon) format("svg");
   font-weight: 400;
   font-style: normal;
   font-display: block
@@ -7903,7 +7903,7 @@ a:hover {
 
 @font-face {
   font-family: ExtraLight;
-  src: url(../.https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/media/SourceHanSansCN-ExtraLight.45afa4d7.otf) format("truetype")
+  src: url(https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/media/SourceHanSansCN-ExtraLight.45afa4d7.otf) format("truetype")
 }
 
 body {

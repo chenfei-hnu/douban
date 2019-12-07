@@ -1,3 +1,5 @@
+importScripts("/precache-manifest.9ce138a2ef6ffb5dfa9c1a85532ca696.js");
+
 importScripts('https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox-sw.js');
 
 if (workbox) {
@@ -7,7 +9,7 @@ if (workbox) {
 }
 // set the prefix and suffix of our sw's name
 workbox.core.setCacheNameDetails({
-  prefix: 'zhaobf',
+  prefix: 'browse-exp',
   suffix: 'v1.0.0',
 });
 // have our sw update and control a web page as soon as possible.
@@ -21,15 +23,16 @@ workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
 // cache our data, and use networkFirst strategy.
 workbox.routing.registerRoute(
-  new RegExp('.*experiments\?.*'),
+  new RegExp('.*experiments\?.*'), 
   workbox.strategies.networkFirst()
 );
 workbox.routing.registerRoute(
   new RegExp('.*experiments/\\d'),
-  workbox.strategies.networkFirst()
+  workbox.strategies.networkFirst()  
 )
 workbox.routing.registerRoute(
   new RegExp('.*experiment_types.*'),
   workbox.strategies.networkFirst()
 )
+
 

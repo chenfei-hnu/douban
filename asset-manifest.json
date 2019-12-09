@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/css/main.48258677.chunk.css",
-    "main.js": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/js/main.e1b5e21d.chunk.js",
-    "main.js.map": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/js/main.e1b5e21d.chunk.js.map",
+    "main.js": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/js/main.0eab7c74.chunk.js",
+    "main.js.map": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/js/main.0eab7c74.chunk.js.map",
     "runtime~main.js": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/js/runtime~main.d653cc00.js",
     "runtime~main.js.map": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/js/runtime~main.d653cc00.js.map",
     "static/css/2.dccc17b0.chunk.css": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/css/2.dccc17b0.chunk.css",
     "static/js/2.8982ac46.chunk.js": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/js/2.8982ac46.chunk.js",
     "static/js/2.8982ac46.chunk.js.map": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/js/2.8982ac46.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.ec197a954f396aaca9be30d51614c877.js": "./precache-manifest.ec197a954f396aaca9be30d51614c877.js",
+    "precache-manifest.82729c72588566cf1ca092fc0bf45756.js": "./precache-manifest.82729c72588566cf1ca092fc0bf45756.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.dccc17b0.chunk.css.map": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/css/2.dccc17b0.chunk.css.map",
     "static/css/main.48258677.chunk.css.map": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/css/main.48258677.chunk.css.map",

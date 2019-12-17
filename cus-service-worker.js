@@ -7,7 +7,7 @@ if (workbox) {
 }
 // set the prefix and suffix of our sw's name
 workbox.core.setCacheNameDetails({
-  prefix: '尘世烟火',
+  prefix: '尘埃中的焰火',
   suffix: 'v1.0.0',
 });
 // have our sw update and control a web page as soon as possible.

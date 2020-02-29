@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/css/main.2df7413e.chunk.css",
-    "main.js": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/js/main.30f5302f.chunk.js",
-    "main.js.map": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/js/main.30f5302f.chunk.js.map",
-    "runtime~main.js": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/js/runtime~main.d653cc00.js",
-    "runtime~main.js.map": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/js/runtime~main.d653cc00.js.map",
-    "static/css/2.d50a9c33.chunk.css": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/css/2.d50a9c33.chunk.css",
-    "static/js/2.71205f64.chunk.js": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/js/2.71205f64.chunk.js",
-    "static/js/2.71205f64.chunk.js.map": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/js/2.71205f64.chunk.js.map",
+    "main.css": "https://introfei.github.io/douban/static/css/main.1ea74ac1.chunk.css",
+    "main.js": "https://introfei.github.io/douban/static/js/main.bbe9476d.chunk.js",
+    "main.js.map": "https://introfei.github.io/douban/static/js/main.bbe9476d.chunk.js.map",
+    "runtime~main.js": "https://introfei.github.io/douban/static/js/runtime~main.d653cc00.js",
+    "runtime~main.js.map": "https://introfei.github.io/douban/static/js/runtime~main.d653cc00.js.map",
+    "static/css/2.d50a9c33.chunk.css": "https://introfei.github.io/douban/static/css/2.d50a9c33.chunk.css",
+    "static/js/2.71205f64.chunk.js": "https://introfei.github.io/douban/static/js/2.71205f64.chunk.js",
+    "static/js/2.71205f64.chunk.js.map": "https://introfei.github.io/douban/static/js/2.71205f64.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.f22fe0b628771f73f4ac9dc2dc6dbc4b.js": "./precache-manifest.f22fe0b628771f73f4ac9dc2dc6dbc4b.js",
+    "precache-manifest.7ebcb11a23f227d07e5296dc842e0991.js": "./precache-manifest.7ebcb11a23f227d07e5296dc842e0991.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/2.d50a9c33.chunk.css.map": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/css/2.d50a9c33.chunk.css.map",
-    "static/css/main.2df7413e.chunk.css.map": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/css/main.2df7413e.chunk.css.map",
-    "static/media/index.css": "https://douban-1300076408.cos.ap-guangzhou.myqcloud.com/static/media/icomoon.ca96d3e6.ttf"
+    "static/css/2.d50a9c33.chunk.css.map": "https://introfei.github.io/douban/static/css/2.d50a9c33.chunk.css.map",
+    "static/css/main.1ea74ac1.chunk.css.map": "https://introfei.github.io/douban/static/css/main.1ea74ac1.chunk.css.map",
+    "static/media/index.css": "https://introfei.github.io/douban/static/media/icomoon.ca96d3e6.ttf"
   }
 }
